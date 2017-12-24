@@ -11,10 +11,10 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "heroku",
-    "url": "https://sheltered-anchorage-91090.herokuapp.com/"
+    "type": "git",
+    "url": "https://github.com/ashdonnelly/13-friend-finder"
   },
-  "author": "",
+  "author": "Ashley Donnelly",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",

@@ -1,15 +1,18 @@
 {
   "name": "friend-finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "friend finding app",
   "main": "server.js",
+  "engines": {
+    "node": "^6.11.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "friend-finder"
+    "type": "heroku",
+    "url": "https://sheltered-anchorage-91090.herokuapp.com/"
   },
   "author": "",
   "license": "ISC",
